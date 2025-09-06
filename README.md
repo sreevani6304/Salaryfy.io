@@ -1,7 +1,8 @@
 # Salaryfy.io
-##Brand Perspective
+## Brand Perspective
 Salaryfy is a financial awareness and empowerment platform dedicated to helping individuals gain a clear understanding of their salary structures, taxation, deductions, and investment opportunities. The platform is built on three strong values that define its identity and mission:
-1 Clarity – Making salary components, deductions, and allowances simple to understand. 2 Transparency – Providing users with unbiased and accurate financial information.
+1 Clarity – Making salary components, deductions, and allowances simple to understand. 
+2 Transparency – Providing users with unbiased and accurate financial information.
 3 Financial Literacy – Equipping users with knowledge to make smart financial decisions.
 Vision & Mission
 Vision: To become the go-to platform for individuals seeking clarity about their salary, taxation, and financial planning in a simple, accessible manner.
